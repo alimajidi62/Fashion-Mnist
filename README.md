@@ -19,7 +19,7 @@ in this project you can learn fashion Mnist by tensorflow
  <p>Exit</p>
  <img src="Image\quit.JPG"/>
   <p>Run this command <strong>"conda activate tensorflow"</strong>for sure everything ok after that check the version</p>
-  <img src="Image\tensorflowVersion.JPG"/>
+  <img src="Image\tensorflowVersion11.JPG"/>
  <h2/>7-Install Kernel for Jupter</h2> 
   <p>Run this command for install kernel <strong>"python -m ipykernel install --user --name tensorflow --display-name "Python 3.7 (tensorflow)""</strong>after that you can run jupyter</p>
   <img src="Image\jupyter notebook.JPG"/>
