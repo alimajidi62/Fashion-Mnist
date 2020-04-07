@@ -29,5 +29,4 @@ in this project you can learn fashion Mnist by tensorflow
  <p>Run version </p> 
  <p><strong>"import tensorflow as tf"</strong></p>
 <p><strong>"print(tf.__version__)"</strong></p>
-  <img src="creatnew.JPG"/>
   <img src="version.JPG"/>
