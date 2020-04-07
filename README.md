@@ -11,7 +11,7 @@ in this project you can learn fashion Mnist by tensorflow
 <p>Run this command <strong>"Conda install jupyter"</strong></p>
  <h2/>5-Run the Enviroment Setup Script</h2>
  <p>Run this command <strong>"Conda env create -f tensorflow.yml"</strong></p>
- <img src="C:/Users/ali/Desktop/1.jpg"/>
+ <img src="~/1.JPG"/>
  <h2/>6-Test Tensorflow Command Line</h2>
  <h2/>7-Install Kernel for Jupter</h2> 
  <h2/>8-Test Jupyter</h2>
