@@ -1,6 +1,6 @@
 # Fashion-Mnist TensorFlow Examples</h1>
 learn fashion Mnist data set
-in this project you can learn fashion Mnist by tensorflow
+in this project you can learn fashion Mnist by tensorflow But at first I build tensorflow in windows by these steps
 <h2/>1-download MiniConbda </h2>
 <p><em>it is better to download Python 3.7 , please take a <a href="https://docs.conda.io/en/latest/miniconda.html">look here</a>.</em></p>
 <h2/>2-Install Miniconda</h2>
@@ -30,3 +30,5 @@ in this project you can learn fashion Mnist by tensorflow
  <p><strong>"import tensorflow as tf"</strong></p>
 <p><strong>"print(tf.__version__)"</strong></p>
   <img src="Image\version.JPG"/>
+   <h2/>9-Run the example</h2>
+   <p>After all priviouus steps download <a href="https://github.com/alimajidi62/Fashion-Mnist/blob/master/mnist%20fashion.ipynb">This file</a>.</em>  </p> 
