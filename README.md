@@ -27,7 +27,7 @@ In this project you can learn fashion Mnist by tensorflow But at first I build t
   <p>After that create new file by kernel <strong>"Python 3.7 (TensorFlow)"</strong></p>
    <img src="Image\creatnew.JPG"/>
  <h2/>8-Test Jupyter</h2>
- <p>Run version </p> 
+ <p>Get version by this command </p> 
  <p><strong>"import tensorflow as tf"</strong></p>
 <p><strong>"print(tf.__version__)"</strong></p>
   <img src="Image\version.JPG"/>
