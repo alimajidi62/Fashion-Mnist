@@ -1,6 +1,6 @@
 # Fashion-Mnist TensorFlow Examples</h1>
-learn fashion Mnist data set
-in this project you can learn fashion Mnist by tensorflow But at first I build tensorflow in windows by these steps
+<p>learn fashion Mnist data set</p>
+In this project you can learn fashion Mnist by tensorflow But at first I build tensorflow in windows by these steps
 <img src="Image\data.JPG"/>
 <h2/>1-download MiniConbda </h2>
 <p><em>it is better to download Python 3.7 , please take a <a href="https://docs.conda.io/en/latest/miniconda.html">look here</a>.</em></p>
