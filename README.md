@@ -32,3 +32,4 @@ in this project you can learn fashion Mnist by tensorflow But at first I build t
   <img src="Image\version.JPG"/>
    <h2/>9-Run the example</h2>
    <p>After all pervious  steps download <a href="https://github.com/alimajidi62/Fashion-Mnist/blob/master/mnist%20fashion.ipynb">This file</a> run the jupyter notebook and run step by step the example until the net train and test it.</em>  </p> 
+   <img src="Image\test.JPG"/>
